@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndriodLibrary/AndriodLibrary.iml" filepath="$PROJECT_DIR$/AndriodLibrary/AndriodLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final_Project.iml" filepath="$PROJECT_DIR$/Final_Project.iml" />
+      <module fileurl="file://D:\Moaaz\Udacity\Final_Project\Final_project-master.iml" filepath="D:\Moaaz\Udacity\Final_Project\Final_project-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLibrary/JavaLibrary.iml" filepath="$PROJECT_DIR$/JavaLibrary/JavaLibrary.iml" />
+      <module fileurl="file://D:\Moaaz\Udacity\Final_project-master\JavaLibrary\MyJavaLib.iml" filepath="D:\Moaaz\Udacity\Final_project-master\JavaLibrary\MyJavaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://D:\Moaaz\Udacity\Final_project-master\AndriodLibrary\myandroidlib.iml" filepath="D:\Moaaz\Udacity\Final_project-master\AndriodLibrary\myandroidlib.iml" />
+    </modules>
+  </component>
+</project>

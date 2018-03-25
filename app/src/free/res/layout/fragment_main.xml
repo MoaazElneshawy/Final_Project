@@ -23,6 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/instructions_text_view"
         android:onClick="tellJoke"
+        android:textAllCaps="false"
         android:text="@string/button_text" />
 
     <com.google.android.gms.ads.AdView
@@ -31,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        ads:adSize="SMART_BANNER"
+        ads:adSize="BANNER"
         ads:adUnitId="@string/banner_ad_unit_id" />
 
 </RelativeLayout>

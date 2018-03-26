@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 
+
 public class JokeUi extends AppCompatActivity {
 
     @Override

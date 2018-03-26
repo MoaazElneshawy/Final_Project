@@ -23,7 +23,7 @@ public class MyTest extends AndroidTestCase {
     @Test
     public void testVerifyResponse() {
         onView(withId(R.id.joke_button)).perform(click());
-        onView(withId(R.id.txt)).check(matches(withText("joke")));
+        onView(withId(R.id.instructions_text_view)).check(matches(withText("Press the button for a delicious joke")));
     }
 
 }

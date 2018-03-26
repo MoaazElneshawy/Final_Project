@@ -210,5 +210,9 @@
     <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-core:2.1.3@jar" level="project" />
     <orderEntry type="module" module-name="AndriodLibrary" />
     <orderEntry type="module" module-name="JavaLibrary" />
+    <orderEntry type="module" module-name="AndriodLibrary" />
+    <orderEntry type="module" module-name="JavaLibrary" />
+    <orderEntry type="module" module-name="AndriodLibrary" />
+    <orderEntry type="module" module-name="JavaLibrary" />
   </component>
 </module>
